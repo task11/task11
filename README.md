@@ -24,4 +24,5 @@
 <br>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Firebase-FF7139?style=flat-square&logo=Firebase&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
