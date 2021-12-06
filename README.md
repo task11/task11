@@ -4,7 +4,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=task11&show_icons=true&theme=highcontrast)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=task11&layout=compact)](https://github.com/task11/github-readme-stats)
 
 
 
@@ -26,3 +26,5 @@
 <img src="https://img.shields.io/badge/Firebase-FF7139?style=flat-square&logo=Firebase&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
+
+
