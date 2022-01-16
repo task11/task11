@@ -3,12 +3,6 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=task11&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=task11&layout=compact)](https://github.com/task11/github-readme-stats)
-
-
-
-
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
