@@ -5,11 +5,7 @@
 
 - 👨‍💻 All of my projects are available at 
 
-- 📝 I regularly write articles on [https://velog.io/@task11](https://velog.io/@task11)
-
 - 📫 How to reach me **6539305@gmail.com**
-
-- ⚡ Fun fact **play, study**
 
 <h3 align="left"> 🛠 Languages and Tools:</h3>
 
