@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm task11</h1>
 <h3 align="center">A frontend developer from South-Korea</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at 
 
@@ -19,7 +19,6 @@
 <br>
 <span> Backend :</span>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/></a> &nbsp
 <br>
 <span> BaaS(backend as a service) :</span>
 <img src="https://img.shields.io/badge/Firebase-FF7139?style=flat-square&logo=Firebase&logoColor=white"/></a> &nbsp
